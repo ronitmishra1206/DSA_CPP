@@ -1,0 +1,13 @@
+# C++ build files
+*.exe
+*.out
+
+# VS Code
+.vscode/
+
+# Code::Blocks
+*.depend
+*.layout
+
+# macOS
+.DS_Store
